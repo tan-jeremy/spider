@@ -7,3 +7,7 @@ end
 get '/index' do
 	"<h1>April 30, 2014 - Amazing Spider-Man 2 premiere</h1>"
 end
+
+get '/yo' do
+	"I made a change!"
+end
